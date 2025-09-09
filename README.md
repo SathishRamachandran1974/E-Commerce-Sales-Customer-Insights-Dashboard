@@ -48,11 +48,12 @@
    - Top Countries by Avg Order Value – Global comparison of spending patterns.
    - Refunds & Cancellations Table – Region-wise refund tracking.
    - Interactive Filters – For flexible deep-dive analysis.
-
+   - Previw & Download the full Dashboard |<a href = "https://github.com/SathishRamachandran1974/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/E_Commerece_DashBoard.pdf">**GET DOCUMENT**<a>|
    
   ## Dataset Information  
 
 **Dataset Used:** Global E-Commerce Sales Data (2010–2011)  
+|<a href  ="https://github.com/SathishRamachandran1974/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/cleaned_ecommerce_dataset.xlsx">**DOWNLOAD**</a>|
 
 | Column Name      | Description                                |
 |------------------|--------------------------------------------|
@@ -82,7 +83,10 @@
     premium markets.
   - Product sales are dominated by “Other” category (74%), followed by Bags & Accessories (10%) and Home & Kitchen.
   - Refunds are concentrated in the UK & Germany, signaling operational issues that need attention.
+  - Previw & Download the full StoryFile |<a href = "https://github.com/SathishRamachandran1974/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/E_Commerce%20StoryTelling.pdf">**GET DOCUMENT**</a>|
 
+    
+      
    ## Insights
    - Revenue is seasonal, peaking above $3.5M in high-demand months.
    - Top 10 customers drive major revenue, retention is critical.
