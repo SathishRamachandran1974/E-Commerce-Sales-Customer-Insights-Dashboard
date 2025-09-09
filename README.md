@@ -23,7 +23,7 @@
    - Regional Analysis – Top countries by average order value and product category distribution.
    - Refunds & Cancellations – Monitoring financial impact of refunds across regions.
    - Interactive Filters – By country, product category, customer ID, description, and year.
-   - DashBoard Previews |<a  href = " ">PAGE 1</a>|<a href =" ">PAGE 2</a>|
+   - DashBoard Previews |<a  href = "https://github.com/SathishRamachandran1974/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/GLS_PROJECT_PAGE-1.png">PAGE 1</a>|<a href ="https://github.com/SathishRamachandran1974/E-Commerce-Sales-Customer-Insights-Dashboard/blob/main/GLS_PROJECT_PAGE-2.png">PAGE 2</a>|
 
 ## KeyKPIs (from the Dashboard)
    - Total Revenue: $8,278,519
