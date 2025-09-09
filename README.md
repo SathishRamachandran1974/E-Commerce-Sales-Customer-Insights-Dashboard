@@ -95,10 +95,11 @@
   - This project demonstrates how Google Looker Studio can turn raw e-commerce data into actionable insights. By analyzing revenue, customers,
     products, and markets, the dashboard connects operational data with business strategy.
   - It enables businesses to:
-        --> Maximize seasonal revenue through planned campaigns.
-        --> Build loyalty programs to retain high-value customers.
-        --> Expand strategically into premium international markets.
-        --> Optimize product portfolios to match customer demand.
-        --> Reduce revenue leakage through refund control.
+    
+       --> Maximize seasonal revenue through planned campaigns.
+       --> Build loyalty programs to retain high-value customers.
+       --> Expand strategically into premium international markets.
+       --> Optimize product portfolios to match customer demand.
+       --> Reduce revenue leakage through refund control.
   - The storytelling approach transforms millions of sales records into a clear roadmap for e-commerce growth and decision-making.
 
