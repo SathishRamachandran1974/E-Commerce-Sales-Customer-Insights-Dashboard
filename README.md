@@ -66,3 +66,39 @@
 | Refund Revenue   | Refund/cancellation amount                 |
 | Year             | Transaction Year (2010/2011)               |
 
+
+  ## Tools & Techniques 
+  - Google Looker Studio → Dashboard design & visualization
+  - Google Sheets / CSV → Data source integration
+  - Data Cleaning → Removing duplicates, categorizing products
+  - Calculated Fields → Revenue KPIs, Avg Order Value, Basket Size
+  - Storytelling → Turning data into business insights
+
+  ## Storytelling–The Insights Behind the Dashboard
+  - The business generated $8.27M revenue across 18.5K orders with clear seasonal peaks, showing opportunities
+    for campaign alignment.
+  - A small group of top customers contributed over $1.3M revenue, proving the need for customer loyalty programs.
+  - The UK leads in total sales, while Netherlands & Australia show higher avg order values ($1K–$3K), highlighting
+    premium markets.
+  - Product sales are dominated by “Other” category (74%), followed by Bags & Accessories (10%) and Home & Kitchen.
+  - Refunds are concentrated in the UK & Germany, signaling operational issues that need attention.
+
+   ## Insights
+   - Revenue is seasonal, peaking above $3.5M in high-demand months.
+   - Top 10 customers drive major revenue, retention is critical.
+   - Premium markets exist in countries with higher avg order values.
+   - Decorative, lifestyle, and gifting products dominate sales.
+   - Refund reduction can directly improve profitability.
+
+
+  ## Conclusion 
+  - This project demonstrates how Google Looker Studio can turn raw e-commerce data into actionable insights. By analyzing revenue, customers,
+    products, and markets, the dashboard connects operational data with business strategy.
+  - It enables businesses to:
+        -> Maximize seasonal revenue through planned campaigns.
+        -> Build loyalty programs to retain high-value customers.
+        -> Expand strategically into premium international markets.
+        -> Optimize product portfolios to match customer demand.
+        -> Reduce revenue leakage through refund control.
+  - The storytelling approach transforms millions of sales records into a clear roadmap for e-commerce growth and decision-making.
+
